@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+div.content {
+    background: #e3e3e3;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 20%;
+    line-height: 30px;
+    border-radius: 20px;
+}
+div.content input {
+    font-size: 14px;
+    padding: 2px;
+    border-radius: 5px;
+    margin: 5px;
+}
+div.content button {
+    padding: 5px;
+    font-size: 18px;
+    background: orange;
+    border: 0px;
+    border-radius: 5px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.help-block {
+    color: red;
+    font-size: 12px;
+}
